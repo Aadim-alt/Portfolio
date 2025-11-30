@@ -12,7 +12,7 @@
 18-year-old developer on a mission to master code and build financial freedom. I code every single day, document my journey publicly, and build real projects that solve real problems.
 
 **Started coding:** November 9, 2025  
-**Current streak:** 21 days (This won't be updated)  
+**Current streak:** 2 (This won't be updated)  
 **Philosophy:** Ship, learn, repeat. No tutorial hell.
 
 ---
