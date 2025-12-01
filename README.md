@@ -1,4 +1,4 @@
-# 💼 Professional Portfolio
+# 💼 Portfolio
 
 **Developer:** Aadim  
 **Location:** Kathmandu, Nepal  
