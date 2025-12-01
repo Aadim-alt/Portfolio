@@ -23,7 +23,7 @@ A sleek command-line application for managing your personal movie collection wit
 
 1. Clone the repository
 ```bash
-git clone https://github.com/Aadim-alt/movies-manager.git
+git clone https://github.com/Aadim-alt/Portfolio
 cd movies-manager
 ```
 
